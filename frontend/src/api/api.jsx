@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://codemind-backend-gvjk.onrender.com', // your backend URL
+  baseURL: 'https://codemind-backend-gvjk.onrender.com/api', // your backend URL
 });
 
 // Register
